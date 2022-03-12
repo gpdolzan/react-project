@@ -1,0 +1,6 @@
+.scroll{
+    width: 100vw;
+    position: fixed;
+    background: linear-gradient(to right, rgba(187, 81, 245, 96) 0%, rgba(245, 5, 69, 96) 100%);
+    z-index: 1;
+}
