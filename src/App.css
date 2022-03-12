@@ -10,3 +10,8 @@ h1{
     font-weight: 200;
     color: #1754A8;
 }
+
+.cardlist{
+    padding-top: 210px;
+    text-align: center;
+}

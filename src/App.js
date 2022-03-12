@@ -52,7 +52,7 @@ class App extends Component
               <SearchBox searchChange={this.onSearchChange} />
             </Scroll>
           </div>
-          <div className='tc pt7'>
+          <div className='cardlist'>
             <CardList robots={filteredRobots} />
           </div>
         </div>
